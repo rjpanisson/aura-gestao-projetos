@@ -4,7 +4,7 @@ Plataforma web para freelancers e pequenas agências gerenciarem projetos, clien
 
 🔗 **Demo:** work-aura.lovable.app
 
-![Dashboard](./prints/dashboard.png)
+![Dashboard](./prints/image(65).png)
 
 ## Sobre o projeto
 
