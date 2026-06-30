@@ -37,4 +37,4 @@ Alguns pontos que exigiram pensar como dados de negócio se conectam:
 
 ## Por que esse projeto está aqui
 
-Esse repositório não é uma demonstração de código escrito à mão — é uma demonstração de como eu penso estrutura de dados, métricas e regras de negócio na hora de desenhar um produto. Para projetos com foco técnico em SQL, ETL e modelagem de dados, veja https://github.com/rjpanisson/Databricks-Olist
+Esse repositório não é uma demonstração de código escrito à mão — é uma demonstração de como eu penso estrutura de dados, métricas e regras de negócio na hora de desenhar um produto. Para projetos com foco técnico em SQL, ETL e modelagem de dados, veja github.com/rjpanisson/Databricks-Olist
